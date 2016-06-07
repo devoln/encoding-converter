@@ -3,7 +3,7 @@ Recursive converter of text file's encodings in folder.
 
 Для работы программы требуется .NET Framework 3.5. Возможно скомпилировать версию и для более новых версий фреймворков.
 
-![Screenshot](gammaker.github.io/images/encoding-converter.png)
+![Screenshot](http://www.gammaker.github.io/images/encoding-converter.png)
 
 ## Описание
  Это программа для преобразования кодировок всех текстовых файлов, подходящих под фильтр, в указанной директории и её поддиректориях.
